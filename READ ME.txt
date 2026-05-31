@@ -1,0 +1,18 @@
+STEP-1
+
+	    Download python Python 3.14.3 version
+
+		https://www.python.org/downloads/windows/
+
+		search for 3.14.3 version
+
+STEP-2
+
+		PIP INSTALL -r REQUIREMENTS.txt
+
+STEP-3 TO RUN THE UTILITY
+	
+		STREAMLIT RUN RAG_GEN.py
+
+
+

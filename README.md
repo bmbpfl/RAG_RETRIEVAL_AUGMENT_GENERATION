@@ -1,5 +1,3 @@
-# RAG_RETRIEVAL_AUGMENT_GENERATION
-RAG - Retrieval Augment Generation tool for summarizing the document, get key insights of the PDF file uploaded
 
 		<< Source file can be PDF || File >>
 
@@ -22,14 +20,15 @@ RAG - Retrieval Augment Generation tool for summarizing the document, get key in
 	
 	PIP INSTALL PyPDF
 	
+
+
 		   or 
 	
 		pip install -r requirements.txt
 
 4. 
 
-	STREAMLIT RUN RAG_GEN.PY
+	STREAMLIT RUN 
 
     this will execute the python code
-
 

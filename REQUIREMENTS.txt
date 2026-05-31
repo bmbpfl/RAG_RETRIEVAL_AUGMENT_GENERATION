@@ -1,0 +1,12 @@
+psutil
+tiktoken
+numpy
+re
+io
+tempfile
+sentence_transformers
+docx   
+pypdf   
+reportlab
+faiss-cpu
+python-docx
